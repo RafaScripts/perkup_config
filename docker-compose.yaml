@@ -15,7 +15,7 @@ services:
       - "9000:9000"
     environment:
       - PORTAINER_HTTP_DISABLED=false
-      - PORTAINER_TRUSTED_ORIGINS=portainer.rafascripts.dev.br
+      - PORTAINER_TRUSTED_ORIGINS=portainer.digitalmoontech.com.br
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
@@ -23,14 +23,14 @@ services:
       - perkup-net
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.portainer.rule=Host(`portainer.rafascripts.dev.br`)"
+      - "traefik.http.routers.portainer.rule=Host(`portainer.digitalmoontech.com.br`)"
       - "traefik.http.routers.portainer.entrypoints=web"
       - "traefik.http.routers.portainer.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
       # Adiciona headers corretos
       - "traefik.http.routers.portainer.middlewares=portainer-headers"
       - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Proto=https"
-      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Host=portainer.rafascripts.dev.br"
+      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Host=portainer.digitalmoontech.com.br"
     depends_on:
       - traefik
   
