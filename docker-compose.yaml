@@ -12,8 +12,9 @@ services:
     container_name: portainer
     restart: unless-stopped
     ports:
-      - "8000:8000"
       - "9000:9000"
+    environment:
+      - PORTAINER_HTTP_DISABLED=false
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
@@ -21,15 +22,10 @@ services:
       - perkup-net
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.portainer-subdomain.rule=Host(`portainer.rafascripts.dev.br`)"
-      - "traefik.http.routers.portainer-subdomain.entrypoints=web"
-      - "traefik.http.routers.portainer-subdomain.service=portainer"
+      - "traefik.http.routers.portainer.rule=Host(`portainer.rafascripts.dev.br`)"
+      - "traefik.http.routers.portainer.entrypoints=web"
+      - "traefik.http.routers.portainer.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
-      - "traefik.http.routers.portainer-subdomain.priority=100"
-      # Middleware para corrigir headers
-      - "traefik.http.routers.portainer-subdomain.middlewares=portainer-headers"
-      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Proto=http"
-      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-For="
     depends_on:
       - traefik
   
