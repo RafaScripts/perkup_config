@@ -2,6 +2,10 @@ networks:
   perkup-net:
     external: true
 
+volumes:
+  portainer_data:
+    driver: local
+
 services:
   portainer:
     image: portainer/portainer-ce:latest
