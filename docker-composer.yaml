@@ -1,0 +1,38 @@
+networks:
+  perkup-net:
+    external: true
+
+services:
+  portainer:
+    image: portainer/portainer-ce:latest
+    container_name: portainer
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    networks:
+      - perkup-net
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.portainer-subdomain.rule=Host(`portainer.rafascripts.dev.br`)"
+      - "traefik.http.routers.portainer-subdomain.entrypoints=web"
+      - "traefik.http.routers.portainer-subdomain.service=portainer"
+      - "traefik.http.services.portainer.loadbalancer.server.port=9000"
+      - "traefik.http.routers.portainer-subdomain.priority=100"
+    depends_on:
+      - traefik
+  
+  traefik:
+    image: traefik:v3.2
+    container_name: soiltraefik
+    ports:
+      - "80:80"
+      - "8080:8080"
+    networks:
+      - perkup-net
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./traefik.yml:/etc/traefik/traefik.yml
