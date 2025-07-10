@@ -26,6 +26,10 @@ services:
       - "traefik.http.routers.portainer-subdomain.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
       - "traefik.http.routers.portainer-subdomain.priority=100"
+      # Middleware para corrigir headers
+      - "traefik.http.routers.portainer-subdomain.middlewares=portainer-headers"
+      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Proto=http"
+      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-For="
     depends_on:
       - traefik
   

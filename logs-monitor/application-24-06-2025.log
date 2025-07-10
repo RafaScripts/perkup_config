@@ -1,0 +1,768 @@
+24/06/2025 00:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 00:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 00:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 00:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 00:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 00:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 00:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 00:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 00:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 00:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 00:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 00:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 01:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 01:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 01:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 01:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 01:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 01:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 01:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 01:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 01:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 01:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 01:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 01:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 02:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 02:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 02:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 02:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 02:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 02:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 02:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 02:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 02:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 02:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 02:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 02:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 03:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 03:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 03:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 03:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 03:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 03:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 03:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 03:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 03:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 03:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 03:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 03:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 04:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 04:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 04:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 04:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 04:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 04:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 04:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 04:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 04:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 04:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 04:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 04:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 05:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 05:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 05:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 05:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 05:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 05:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 05:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 05:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 05:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 05:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 05:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 05:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 06:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 06:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 06:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 06:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 06:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 06:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 06:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 06:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 06:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 06:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 06:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 06:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 07:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 07:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 07:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 07:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 07:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 07:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 07:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 07:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 07:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 07:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 07:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 07:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 08:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 08:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 08:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 08:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 08:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 08:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 08:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 08:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 08:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 08:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 08:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 08:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 09:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 09:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 09:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 09:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 09:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 09:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 09:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 09:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 09:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 09:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 09:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 09:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 10:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 10:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 10:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 10:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 10:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 10:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 10:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 10:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 10:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 10:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 10:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 10:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 11:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 11:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 11:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 11:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 11:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 11:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 11:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 11:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 11:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 11:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 11:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 11:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 12:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 12:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 12:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 12:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 12:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 12:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 12:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 12:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 12:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 12:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 12:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 12:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 13:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 13:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 13:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 13:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 13:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 13:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 13:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 13:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 13:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 13:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 13:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 13:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 14:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 14:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 14:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 14:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 14:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 14:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 14:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 14:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 14:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 14:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 14:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 14:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 15:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 15:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 15:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 15:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 15:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 15:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 15:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 15:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 15:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 15:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 15:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 15:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 16:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 16:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 16:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 16:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 16:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 16:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 16:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 16:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 16:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 16:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 16:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 16:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 17:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 17:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 17:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 17:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 17:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 17:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 17:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 17:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 17:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 17:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 17:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 17:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 18:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 18:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 18:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 18:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 18:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 18:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 18:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 18:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 18:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 18:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 18:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 18:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 19:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 19:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 19:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 19:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 19:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 19:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 19:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 19:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 19:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 19:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 19:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 19:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 20:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 20:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 20:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 20:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 20:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 20:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 20:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 20:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 20:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 20:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 20:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 20:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 21:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 21:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 21:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 21:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 21:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxMjAwLCJleHAiOjE3NTA4OTYwMDB9.yCZsIiKsC_C5m01fqZZhIdmzf7vw1Aow0TrrBz9zfb8"
+} {"service":"monitoring-icrop"}
+24/06/2025 21:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 21:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 21:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 21:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 21:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 21:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxNTAwLCJleHAiOjE3NTA4OTYzMDB9.4fUzyXxHi1JforvqUZqrgmxWshHUzIxoePiLFw1slqg"
+} {"service":"monitoring-icrop"}
+24/06/2025 21:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 22:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 22:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 22:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 22:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 22:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkxODAwLCJleHAiOjE3NTA4OTY2MDB9.gesW_GCiKLbjglFswgowkSihWCXcuduT6JUjfaf7lEo"
+} {"service":"monitoring-icrop"}
+24/06/2025 22:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 22:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 22:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 22:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 22:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 22:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyMTAwLCJleHAiOjE3NTA4OTY5MDB9.NrKnyUHPRJWfBy8M_hnlamwdeuXd3IJcu2Jn4vEoHEg"
+} {"service":"monitoring-icrop"}
+24/06/2025 22:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 23:00:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 23:05:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 23:10:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 23:15:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 23:20:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNDAwLCJleHAiOjE3NTA4OTcyMDB9.dCIH9goyGS4zU443Fz3Qq3bIkb5tjR4nnPjVzWKzrUI"
+} {"service":"monitoring-icrop"}
+24/06/2025 23:25:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 23:30:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 23:35:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 23:40:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
+24/06/2025 23:45:00 [warn]  Tentativa de conexão com o backend {"service":"monitoring-icrop"}
+24/06/2025 23:50:00 [warn]  {
+  "id": "4682d682-e18e-4576-a1af-596836bde011",
+  "user_type": "DEALER",
+  "username": "soil_rafa",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJuYW1lIjoic29pbF9yYWZhIiwiaWQiOiI0NjgyZDY4Mi1lMThlLTQ1NzYtYTFhZi01OTY4MzZiZGUwMTEiLCJ1c2VyX3R5cGUiOiJERUFMRVIifSwiaWF0IjoxNzUwMjkyNzAwLCJleHAiOjE3NTA4OTc1MDB9.cOajh5KNLurVRKGv1DkxiWrY-c1gmDOVLffoO5ATVgM"
+} {"service":"monitoring-icrop"}
+24/06/2025 23:55:00 [info]  Backend respondendo com sucesso, token recebido {"service":"monitoring-icrop"}
