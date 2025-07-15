@@ -57,7 +57,7 @@ services:
       - "traefik.http.routers.api.rule=Host(`traefik.digitalmoontech.com.br`)"
       - "traefik.http.routers.api.service=api@internal"
       - "traefik.http.routers.api.middlewares=auth"
-      - "traefik.http.middlewares.auth.basicauth.users=admin:$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+      - "traefik.http.middlewares.auth.basicauth.users=admin:$$2y$$10$$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
 
   # Jaeger para tracing distribuído
   traefik-jaeger:
