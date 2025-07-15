@@ -24,9 +24,10 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.portainer.rule=Host(`portainer.digitalmoontech.com.br`)"
-      - "traefik.http.routers.portainer.entrypoints=web"
+      - "traefik.http.routers.portainer.entrypoints=websecure"
       - "traefik.http.routers.portainer.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
+      - "traefik.http.routers.portainer.tls=true"
       # Adiciona headers corretos
       - "traefik.http.routers.portainer.middlewares=portainer-headers"
       - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Proto=https"
@@ -39,6 +40,7 @@ services:
     container_name: soiltraefik
     ports:
       - "80:80"
+      - "443:443"
       - "8080:8080"
     networks:
       - perkup-net
