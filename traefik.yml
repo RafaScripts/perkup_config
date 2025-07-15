@@ -51,13 +51,13 @@ metrics:
     addRoutersLabels: true
     entryPoint: traefik
 
-# Configuração de tracing
-tracing:
-  jaeger:
-    samplingServerURL: http://traefik-jaeger:14268/api/sampling
-    samplingType: const
-    samplingParam: 1.0
-    localAgentHostPort: traefik-jaeger:6831
-    gen128Bit: true
-    propagation: jaeger
-    traceContextHeaderName: uber-trace-id
+# Configuração de tracing (comentado por ora - precisa configuração específica v3)
+# tracing:
+#   jaeger:
+#     samplingServerURL: http://traefik-jaeger:14268/api/sampling
+#     samplingType: const
+#     samplingParam: 1.0
+#     localAgentHostPort: traefik-jaeger:6831
+#     gen128Bit: true
+#     propagation: jaeger
+#     traceContextHeaderName: uber-trace-id
