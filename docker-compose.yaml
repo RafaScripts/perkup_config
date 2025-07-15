@@ -28,7 +28,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.portainer.rule=Host(`portainer.digitalmoontech.com.br`)"
-      - "traefik.http.routers.portainer.entrypoints=websecure"
+      - "traefik.http.routers.portainer.entrypoints=web,websecure"
       - "traefik.http.routers.portainer.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
       - "traefik.http.routers.portainer.tls=true"
@@ -73,7 +73,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.traefik-jaeger.rule=Host(`jaeger.digitalmoontech.com.br`)"
-      - "traefik.http.routers.traefik-jaeger.entrypoints=websecure"
+      - "traefik.http.routers.traefik-jaeger.entrypoints=web,websecure"
       - "traefik.http.routers.traefik-jaeger.tls=true"
       - "traefik.http.services.traefik-jaeger.loadbalancer.server.port=16686"
 
@@ -91,7 +91,7 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.traefik-prometheus.rule=Host(`prometheus.digitalmoontech.com.br`)"
-      - "traefik.http.routers.traefik-prometheus.entrypoints=websecure"
+      - "traefik.http.routers.traefik-prometheus.entrypoints=web,websecure"
       - "traefik.http.routers.traefik-prometheus.tls=true"
       - "traefik.http.services.traefik-prometheus.loadbalancer.server.port=9090"
 
@@ -111,6 +111,6 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.traefik-grafana.rule=Host(`grafana.digitalmoontech.com.br`)"
-      - "traefik.http.routers.traefik-grafana.entrypoints=websecure"
+      - "traefik.http.routers.traefik-grafana.entrypoints=web,websecure"
       - "traefik.http.routers.traefik-grafana.tls=true"
       - "traefik.http.services.traefik-grafana.loadbalancer.server.port=3000"
