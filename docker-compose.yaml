@@ -19,7 +19,7 @@ services:
       - "9000:9000"
     environment:
       - PORTAINER_HTTP_DISABLED=false
-      - PORTAINER_TRUSTED_ORIGINS=portainer.digitalmoontech.com.br
+      - PORTAINER_TRUSTED_ORIGINS=cloud.nikoliveira.com
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - portainer_data:/data
@@ -27,7 +27,7 @@ services:
       - perkup-net
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.portainer.rule=Host(`portainer.digitalmoontech.com.br`)"
+      - "traefik.http.routers.portainer.rule=Host(`cloud.nikoliveira.com`)"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
     depends_on:
       - traefik
@@ -47,7 +47,7 @@ services:
       - traefik_logs:/var/log/traefik
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.api.rule=Host(`traefik.digitalmoontech.com.br`)"
+      - "traefik.http.routers.api.rule=Host(`traefik.nikoliveira.com`)"
       - "traefik.http.routers.api.service=api@internal"
 
   # Jaeger para tracing distribuído
@@ -65,7 +65,7 @@ services:
       - perkup-net
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.traefik-jaeger.rule=Host(`jaeger.digitalmoontech.com.br`)"
+      - "traefik.http.routers.traefik-jaeger.rule=Host(`jaeger.nikoliveira.com`)"
       - "traefik.http.services.traefik-jaeger.loadbalancer.server.port=16686"
 
   # Prometheus para métricas
@@ -81,7 +81,7 @@ services:
       - perkup-net
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.traefik-prometheus.rule=Host(`prometheus.digitalmoontech.com.br`)"
+      - "traefik.http.routers.traefik-prometheus.rule=Host(`prometheus.nikoliveira.com`)"
       - "traefik.http.services.traefik-prometheus.loadbalancer.server.port=9090"
 
   # Grafana para visualização
@@ -99,5 +99,5 @@ services:
       - perkup-net
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.traefik-grafana.rule=Host(`grafana.digitalmoontech.com.br`)"
+      - "traefik.http.routers.traefik-grafana.rule=Host(`grafana.nikoliveira.com`)"
       - "traefik.http.services.traefik-grafana.loadbalancer.server.port=3000"
