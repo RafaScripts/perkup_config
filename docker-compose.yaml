@@ -29,10 +29,10 @@ services:
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.portainer.rule=Host(`cloud.nikoliveira.com`)"
-      - "traefik.http.routers.portainer.entrypoints=websecure" # Mantenha websecure
+      #- "traefik.http.routers.portainer.entrypoints=websecure" # Mantenha websecure
       - "traefik.http.routers.portainer.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
-      - "traefik.http.routers.portainer.tls.certresolver=le" # Mantenha o certresolver
+      #- "traefik.http.routers.portainer.tls.certresolver=le" # Mantenha o certresolver
       # RE-ADICIONE E AJUSTE ESTES MIDDLEWARES:
       - "traefik.http.routers.portainer.middlewares=portainer-headers@docker"
       - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Proto=https"
