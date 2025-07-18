@@ -10,25 +10,33 @@ volumes:
   traefik_grafana_data:
     driver: local
 
-services:
+services:  
   portainer:
     image: portainer/portainer-ce:latest
     container_name: portainer
     restart: unless-stopped
-    ports:
-      - "9000:9000"
+    # Removida a exposição de porta no host, Traefik fará o roteamento
+    # ports:
+    #   - "9000:9000"
     environment:
       - PORTAINER_HTTP_DISABLED=false
-      - PORTAINER_TRUSTED_ORIGINS=cloud.nikoliveira.com
+      - PORTAINER_TRUSTED_ORIGINS=cloud.nikoliveira.com # Mantenha seu domínio atualizado aqui
     volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
+      - /var/run/docker.sock:/var/run/docker.sock:ro # Montado como somente leitura por segurança
       - portainer_data:/data
     networks:
       - perkup-net
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.portainer.rule=Host(`cloud.nikoliveira.com`)"
+      - "traefik.http.routers.portainer.entrypoints=websecure" # Mantenha websecure
+      - "traefik.http.routers.portainer.service=portainer"
       - "traefik.http.services.portainer.loadbalancer.server.port=9000"
+      - "traefik.http.routers.portainer.tls.certresolver=le" # Mantenha o certresolver
+      # RE-ADICIONE E AJUSTE ESTES MIDDLEWARES:
+      - "traefik.http.routers.portainer.middlewares=portainer-headers@docker"
+      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Proto=https"
+      - "traefik.http.middlewares.portainer-headers.headers.customrequestheaders.X-Forwarded-Host=cloud.nikoliveira.com"
     depends_on:
       - traefik
   
